@@ -1,0 +1,96 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-logtofile",
+        "scope": null,
+        "escapedName": "cordova-plugin-logtofile",
+        "name": "cordova-plugin-logtofile",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "G:\\ionicprj\\3jppnew\\node_modules"
+    ]
+  ],
+  "_from": "cordova-plugin-logtofile@latest",
+  "_id": "cordova-plugin-logtofile@1.1.2",
+  "_inCache": true,
+  "_location": "/cordova-plugin-logtofile",
+  "_nodeVersion": "7.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-logtofile-1.1.2.tgz_1487174120389_0.5102668781764805"
+  },
+  "_npmUser": {
+    "name": "andischerer",
+    "email": "t3asdev@googlemail.com"
+  },
+  "_npmVersion": "4.1.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-logtofile",
+    "scope": null,
+    "escapedName": "cordova-plugin-logtofile",
+    "name": "cordova-plugin-logtofile",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-logtofile/-/cordova-plugin-logtofile-1.1.2.tgz",
+  "_shasum": "313fb5ef0a5a13f41ac4d110a28ab63eb138232c",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-logtofile",
+  "_where": "G:\\ionicprj\\3jppnew\\node_modules",
+  "author": {
+    "name": "Andreas Scherer"
+  },
+  "bugs": {
+    "url": "https://github.com/andischerer/cordova-plugin-logtofile/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-logtofile",
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova-Plugin logs to a logfile in filesystem",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "313fb5ef0a5a13f41ac4d110a28ab63eb138232c",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-logtofile/-/cordova-plugin-logtofile-1.1.2.tgz"
+  },
+  "gitHead": "206cc04fd0ed918945dc25c4e503b6d2a9dff941",
+  "homepage": "https://github.com/andischerer/cordova-plugin-logtofile#readme",
+  "keywords": [
+    "logger",
+    "log",
+    "logfile",
+    "local",
+    "log4j",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "andischerer",
+      "email": "t3asdev@googlemail.com"
+    }
+  ],
+  "name": "cordova-plugin-logtofile",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andischerer/cordova-plugin-logtofile.git"
+  },
+  "scripts": {},
+  "version": "1.1.2"
+}
